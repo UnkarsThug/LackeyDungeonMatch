@@ -13,9 +13,9 @@ Core\Core(3).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch
 Core\Core(4).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(4).jpg
 Core\Core(5).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(5).jpg
 Core\Core(6).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(6).jpg
-Core\Core(7)_a.jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(7).jpg
-Core\Core(7)_b.jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(7)_a.jpg
-Core\Core(8).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(8)_b.jpg
+Core\Core(7)_a.jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(7)_a.jpg
+Core\Core(7)_b.jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(7)_b.jpg
+Core\Core(8).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(8).jpg
 Core\Core(9).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(9).jpg
 Core\Core(10).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(10).jpg
 Core\Core(11).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(11).jpg
