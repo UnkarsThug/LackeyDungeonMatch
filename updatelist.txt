@@ -1,7 +1,9 @@
-DungeonMatch	03-03-18
+DungeonMatch	03-18-18
 plugins\DungeonMatch\plugininfo.txt	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/master/pluginninfo.txt	136630
 plugins\DungeonMatch\ListOfCardDataFiles.txt	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/master/ListOfCardDataFiles.txt	9016
 plugins\DungeonMatch\sets\CardDataFiles.txt	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/master/CardDataFiles.txt	35559
+plugins\DungeonMatch\sets\setimages\general\cardback.jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/master/cardback.jpg	-14200
+plugins\DungeonMatch\sets\setimages\general\spawned.jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/master/spawned.jpg	430
 plugins\DungeonMatch\License.txt	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/master/License.txt	7368
 plugins\DungeonMatch\CardImageURLs1.txt	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/master/CardImageURLs.txt	141395
 CardImageURLs:
