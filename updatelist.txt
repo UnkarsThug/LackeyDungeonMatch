@@ -1,0 +1,21 @@
+DungeonMatch	03-03-18
+plugins\DungeonMatch\plugininfo.txt	https://www.dropbox.com/s/tpq2odnitxqrjm3/plugininfo.txt?dl=0	136630
+plugins\DungeonMatch\ListOfCardDataFiles.txt	https://www.dropbox.com/s/yk73rbnji9hvhcs/ListOfCardDataFiles.txt?dl=0	9016
+plugins\DungeonMatch\License.txt	https://www.dropbox.com/s/c35922jje1ezrjk/License.txt?dl=0	7368
+plugins\DungeonMatch\CardImageURLs1.txt	https://www.dropbox.com/s/iz5yblbdlidyrjf/CardImageURLs1.txt	100706
+CardImageURLs:
+Core\Core(1).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(1).jpg
+Core\Core(2).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(2).jpg
+Core\Core(3).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(3).jpg
+Core\Core(4).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(4).jpg
+Core\Core(5).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(5).jpg
+Core\Core(6).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(6).jpg
+Core\Core(7)_a.jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(7).jpg
+Core\Core(7)_b.jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(7)_a.jpg
+Core\Core(8).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(8)_b.jpg
+Core\Core(9).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(9).jpg
+Core\Core(10).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(10).jpg
+Core\Core(11).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(11).jpg
+Core\Core(12).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(12).jpg
+Core\Core(13).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(13).jpg
+Core\Core(14).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(14).jpg

@@ -1,0 +1,68 @@
+<plugin>	
+<globalstat>
+	<label>Boss Health</label>
+	<initialvalue>25</initialvalue>
+</globalstat>
+	
+<playerstat>	
+	<label>Hero Health</label>
+	<initialvalue>25</initialvalue>
+</playerstat>
+	
+<deckzone>	
+     <label>Deck</label>	
+     <gamezonetoloadto>Deck</gamezonetoloadto>	
+     <shuffle>yes</shuffle>	
+</deckzone>
+
+<deckzone>
+     <label>Setup</label>	
+     <gamezonetoloadto>Hand</gamezonetoloadto>	
+     <shuffle>no</shuffle>	
+</deckzone>
+	
+<gamezone>	
+     <label>setup</label>	
+     <visibletoowner>yes</visibletoowner>	
+     <visibletoothers>no</visibletoothers>	
+</gamezone>
+	
+<gamezone>	
+     <label>Deck</label>	
+     <isshared>yes</isshared>	
+</gamezone>
+	
+<gamezone>	
+     <label>Discard</label>	
+     <visibletoowner>yes</visibletoowner>	
+     <visibletoothers>yes</visibletoothers>	
+     <isshared>yes</isshared>	
+</gamezone>	
+	
+<phase><label>Player</label></phase>	
+<phase><label>Boss</label></phase>		
+	
+
+
+<generalfunction>
+	<label>Deal from Deck</label>
+	<kind>TRANSFERCARD</kind>
+	<sourceowner>shared</sourceowner>
+	<sourcegamezone>Deck</sourcegamezone>
+	<sourceposition>top</sourceposition>
+	<destinationowner>table</destinationowner>
+	<destinationposition>facedown</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction><label>Roll Die</label><kind>ROLLD12</kind><includeasbutton>yes</includeasbutton></generalfunction>	
+
+<cardfunction>
+	<label>Flip</label>
+	<kind>TURNOVER</kind>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<definition>
+	<kind>ISALLOWINGMULTIPLECARDBACKS</kind>
+</definition>	
+</plugin>	
