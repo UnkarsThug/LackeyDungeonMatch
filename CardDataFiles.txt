@@ -1,0 +1,15 @@
+Name	Set	Imagefile	Card Type
+Mage	Core	Core(1)	Hero
+Berserker	Core	Core(2)	Hero
+Ranger	Core	Core(3)	Hero
+Rogue	Core	Core(4)	Hero
+Paladin	Core	Core(5)	Hero
+Druid	Core	Core(6)	Hero
+Rat King	Core	Core(7)_a,Core (7)_b	Boss
+Rat Horde	Core	Core(8)	Dungeon
+Rat Shaman	Core	Core(9)	Dungeon
+Next Floor	Core	Core(10)	Dungeon
+Giant Rat	Core	Core(11)	Dungeon
+Sewer Dweller	Core	Core(12)	Dungeon
+Slime Beast	Core	Core(13)	Dungeon
+Zombie	Core	Core(14)	Dungeon
