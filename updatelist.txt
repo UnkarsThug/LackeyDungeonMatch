@@ -1,8 +1,9 @@
 DungeonMatch	03-03-18
-plugins\DungeonMatch\plugininfo.txt	https://www.dropbox.com/s/tpq2odnitxqrjm3/plugininfo.txt?dl=0	136630
-plugins\DungeonMatch\ListOfCardDataFiles.txt	https://www.dropbox.com/s/yk73rbnji9hvhcs/ListOfCardDataFiles.txt?dl=0	9016
-plugins\DungeonMatch\License.txt	https://www.dropbox.com/s/c35922jje1ezrjk/License.txt?dl=0	7368
-plugins\DungeonMatch\CardImageURLs1.txt	https://www.dropbox.com/s/iz5yblbdlidyrjf/CardImageURLs1.txt	100706
+plugins\DungeonMatch\plugininfo.txt	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/master/pluginninfo.txt	136630
+plugins\DungeonMatch\ListOfCardDataFiles.txt	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/master/ListOfCardDataFiles.txt	9016
+plugins\DungeonMatch\sets\CardDataFiles.txt	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/master/CardDataFiles.txt	35559
+plugins\DungeonMatch\License.txt	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/master/License.txt	7368
+plugins\DungeonMatch\CardImageURLs1.txt	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/master/CardImageURLs.txt	141395
 CardImageURLs:
 Core\Core(1).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(1).jpg
 Core\Core(2).jpg	https://raw.githubusercontent.com/UnkarsThug/LackeyDungeonMatch/images/Core(2).jpg
